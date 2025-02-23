@@ -4,6 +4,7 @@
     NILAI 71-80 GRADE B-
     NILAI 61-70 GRADE C
     NILAI 0-60 GRADE D
+    tes
 */
 
 
